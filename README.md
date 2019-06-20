@@ -1,4 +1,5 @@
-# Modeling
+# Fraud Purchase Analysis
 Modeling &amp; Analytics
 
-Focusting on interesting topics in ML and corresponding analysis
+This analysis is trying to understand the pattern for fraud purchase customer on an online shopping platform
+
